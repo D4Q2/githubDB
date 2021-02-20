@@ -1,5 +1,5 @@
 /* eslint-disable no-console, no-unused-expressions, no-unused-vars */
-import assert from 'assert';
+//import assert from 'assert';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 import spies from 'chai-spies';
